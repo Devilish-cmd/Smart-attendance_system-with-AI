@@ -1,5 +1,0 @@
-flask
-opencv-python
-face-recognition
-pandas
-numpy
